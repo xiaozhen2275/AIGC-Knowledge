@@ -1,156 +1,156 @@
 ---
 name: aigc-poster-generator
-description: Generate or prepare prompts for AIGC course and workshop posters from a poster design brief. Use when the user asks to create cover posters, product main images, introduction images, product long images, Image2 generations, or prompts for Jimeng, Kling, or other image models based on files such as 10_海报设计简报.md.
+description: 根据海报设计简报生成或准备 AIGC 课程、工作坊、读书会海报。适用于用户要求基于 10_海报设计简报.md 或类似设计文档创建封面图、商品主图、介绍图、产品介绍长图、Image2 图片生成，或生成即梦、可灵等图片模型提示词的任务。
 ---
 
-# AIGC Poster Generator
+# AIGC 海报生成器
 
-Use this skill to generate poster assets from a design brief in a controlled sequence. Do not generate all poster types at once. Always preserve one unified visual system across every image in the same project.
+使用本 skill 时，必须按阶段生成海报资产，不要一次性生成所有图片。同一项目内的所有图片必须保持统一的视觉系统。
 
-## Required Context
+## 必读上下文
 
-Before doing poster work, read:
+开始海报工作前，先读取：
 
 1. `AGENTS.md`
 2. `00_AGENT初始化总纲.md`
 3. `10_海报设计简报.md`
 
-If the user points to another poster brief, read that brief instead of `10_海报设计简报.md`.
+如果用户指定了其他海报设计简报，则读取用户指定的设计简报。
 
-## Workflow Gate
+## 工作流闸门
 
-Follow this order exactly:
+严格按以下顺序执行：
 
-1. Understand and confirm the global design direction.
-2. Generate only the 3 cover images from section `三、3 张封面图（1080x1080）`.
-3. After user confirmation, generate all images from section `四、商品主图/介绍图`.
-4. After product images are complete, generate section `五、产品介绍长图`.
+1. 理解并确认整体设计方向。
+2. 只生成 `三、3 张封面图（1080x1080）`。
+3. 用户确认封面图效果后，再生成 `四、商品主图/介绍图` 的全部图片。
+4. 商品主图/介绍图完成后，再生成 `五、产品介绍长图`。
 
-Never skip the cover-preview gate. If the 3 covers do not meet expectations, return to step 1 and adjust the global style, palette, layout logic, and people/no-people strategy before generating again.
+不要跳过封面图预览闸门。如果 3 张封面图未达到预期，回到第 1 步，整体调整设计风格、配色方案、版式逻辑和是否包含人物的策略后再生成。
 
-## Step 1: Confirm Global Style
+## 第 1 步：确认整体风格
 
-Read the design brief for:
+读取设计简报，提取：
 
-- design concept
-- color palette
-- typography and layout mood
-- repeated visual elements
-- poster sections and required image counts
-- constraints and things to avoid
+- 设计思路
+- 配色方案
+- 字体和版式气质
+- 重复视觉元素
+- 海报章节和所需图片数量
+- 禁止事项和风格边界
 
-If the brief already has a design style and color palette, ask:
+如果设计简报已经包含设计风格和配色方案，先询问：
 
 ```text
 是否按设计文档现有风格执行？
 ```
 
-Also ask:
+同时必须主动询问：
 
 ```text
 是否需要包含人物海报？
 ```
 
-If the user wants to adjust style, color, or references, ask for one or more of:
+如果用户要调整风格、配色或参考图，询问是否提供：
 
-- poster template
-- reference image or screenshot
-- brand colors
-- style keywords
-- examples of designs they like or dislike
+- 海报模板
+- 参考图片或截图
+- 品牌色
+- 风格关键词
+- 喜欢或不喜欢的设计案例
 
-Global rule: any style, color, character, layout, or reference adjustment applies to the whole poster set. Do not make each image use a different style system.
+全局规则：任何风格、配色、人物、版式或参考图调整，都必须应用到整套海报。不要让每一张图各用一套风格。
 
-## Step 2: Generate 3 Cover Images
+## 第 2 步：生成 3 张封面图
 
-Generate only the 3 cover images from section `三、3 张封面图（1080x1080）`.
+只生成 `三、3 张封面图（1080x1080）`。
 
-Requirements:
+要求：
 
-- size: `1080x1080`
-- keep the same color system, visual language, and layout family
-- preserve each cover's own title, subtitle, information strip, action line, and composition goal
-- avoid unreliable small Chinese text inside generated images when using image models; prefer clean large Chinese titles and leave detailed text for post-production if needed
+- 尺寸：`1080x1080`
+- 保持统一的配色系统、视觉语言和版式家族
+- 保留每张封面自己的主标题、副标题、信息条、行动号召和构图目标
+- 使用图片模型时，不依赖模型生成密集小字；优先生成清晰的大标题和主视觉，细节文案可后期叠加
 
-After generating, stop and ask the user to confirm:
+生成后停止，并询问用户确认：
 
 ```text
 这 3 张封面图的整体风格、配色、人物策略和版式方向是否通过？
 ```
 
-If not approved, return to step 1. Do not continue to product images.
+如果用户未确认，不要继续生成商品主图/介绍图。
 
-## Step 3: Generate Product Main/Intro Images
+## 第 3 步：生成商品主图/介绍图
 
-Only after the covers are approved, generate all images from section `四、商品主图/介绍图`.
+只有封面图通过后，才生成 `四、商品主图/介绍图` 的全部图片。
 
-Requirements:
+要求：
 
-- use the same approved global style
-- generate the full number of images present in the brief; do not invent or omit cards
-- maintain consistent title scale, card rhythm, background texture, accent colors, and icon style
-- keep each image focused on its own role: path, experience, method, outcome, knowledge asset, sign-up information, or other brief-defined purpose
+- 沿用已经确认的整体风格
+- 按设计简报中的实际数量全部生成，不擅自新增或遗漏
+- 标题层级、卡片节奏、背景质感、强调色和图标风格保持一致
+- 每张图只服务自己的功能：路径、体验、方法、成果、知识资产、报名须知等
 
-After generating, briefly summarize which images were produced and any text that should be overlaid manually for precision.
+生成后，简要说明生成了哪些图片，以及哪些文字建议后期精确叠加。
 
-## Step 4: Generate Product Long Image
+## 第 4 步：生成产品介绍长图
 
-Before generating section `五、产品介绍长图`, confirm all variable event information:
+生成 `五、产品介绍长图` 前，必须确认以下可变活动信息：
 
-- price
-- date and time
-- venue name
-- full address
-- QR code image or QR code content
-- registration/contact method
+- 价格
+- 日期和时间
+- 场地名称
+- 完整地址
+- 二维码图片或二维码内容
+- 报名/咨询方式
 
-If any information is missing, ask for it before generating. Do not hard-code old activity details from the brief unless the user explicitly confirms them.
+如有任何信息缺失，先向用户询问。不要默认沿用设计简报里的旧活动信息，除非用户明确确认。
 
-Requirements:
+要求：
 
-- use the approved global style from the covers
-- preserve the long-image screen order from the brief
-- ensure QR code area remains clean and scannable
-- keep action copy short enough for a mobile poster
-- if using image generation, avoid relying on the model for dense Chinese text; provide exact overlay text separately when needed
+- 沿用封面图阶段确认的整体风格
+- 保留设计简报中的长图屏幕顺序
+- 二维码区域必须干净、可扫码
+- 行动号召文案要短，适合手机端阅读
+- 使用图片模型时，不依赖模型生成密集中文；必要时单独提供精确叠加文字
 
-## Generation Mode
+## 生成模式
 
-### Codex With Image Generation
+### Codex 且具备图片生成能力
 
-When Codex has an image generation tool available, directly generate images in the required stage order. Use one prompt per image or per coherent batch. Do not include later-stage images in an earlier-stage prompt.
+如果 Codex 当前可调用图片生成工具，直接按阶段生成图片。每张图或每个同类批次单独写提示词。不要在封面图阶段混入后续商品主图或长图。
 
-### Other Agents With Image API
+### 其他 Agent 且具备图片生成 API
 
-If another agent has an image generation API, output structured prompts with:
+如果其他 Agent 具备图片生成 API，输出结构化图片提示词，包含：
 
-- image name
-- size
-- objective
-- visual layout
-- color palette
-- required text
-- negative constraints
-- post-production text overlay notes
+- 图片名称
+- 尺寸
+- 生成目标
+- 视觉布局
+- 配色方案
+- 必须出现的文字
+- 负向约束
+- 后期文字叠加说明
 
-### Other Agents Without Image API
+### 其他 Agent 且没有图片生成 API
 
-If no image API is available, output copy-ready prompts for Jimeng, Kling, or similar image models. Include:
+如果没有图片生成 API，输出可复制到即梦、可灵或类似图片模型中的提示词，包含：
 
-- global style prompt
-- one prompt per poster
-- negative prompt
-- exact text overlay list
-- generation order and confirmation gate
+- 全局风格提示词
+- 每张海报的独立提示词
+- 负向提示词
+- 精确文字叠加清单
+- 生成顺序和确认闸门
 
-## Quality Checks
+## 质量检查
 
-Before presenting outputs, verify:
+输出前检查：
 
-- the current stage matches the workflow gate
-- all generated images share one visual system
-- any style changes apply globally
-- cover images are approved before product images
-- product images are complete before the long image
-- long image variable information is confirmed before generation
-- the output still supports a low-pressure 2-hour workshop with visible takeaways
+- 当前阶段是否符合工作流闸门
+- 所有图片是否共享同一套视觉系统
+- 风格变化是否已经整体应用
+- 封面图是否已确认后才进入商品主图
+- 商品主图/介绍图是否完成后才进入长图
+- 长图的价格、时间、地点、二维码和报名方式是否已确认
+- 输出是否仍然服务低压力、2 小时、现场带走可见成果的工作坊定位
