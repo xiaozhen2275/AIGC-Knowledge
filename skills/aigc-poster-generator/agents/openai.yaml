@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGC海报生成"
+  short_description: "按海报设计简报分阶段生成封面图、商品主图和产品长图"
+  default_prompt: "根据10_海报设计简报.md生成活动海报"
