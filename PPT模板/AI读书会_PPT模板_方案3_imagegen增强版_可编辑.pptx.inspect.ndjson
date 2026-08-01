@@ -1,0 +1,149 @@
+{"kind":"deck","id":"pr/wge8tl","name":"Deck"}
+{"kind":"layout","layoutId":"f9f7b306-d1f7-4d41-9167-4f28ef31ad51","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"254e3955-60ca-4203-8edc-831065ab3843","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/6cp718","slide":1,"title":"封面页 / 主题页","textShapes":22}
+{"kind":"shape","id":"sh/032lszqx","slide":1,"bbox":[0,0,610,720]}
+{"kind":"shape","id":"sh/14b2lk7i","slide":1,"bbox":[930,120,12,12]}
+{"kind":"shape","id":"sh/qd03m58v","slide":1,"bbox":[980,168,8,8]}
+{"kind":"shape","id":"sh/re9kfapg","slide":1,"bbox":[900,210,6,6]}
+{"kind":"shape","id":"sh/cfilofq1","slide":1,"bbox":[1028,244,10,10]}
+{"kind":"shape","id":"sh/dgb2hk76","slide":1,"bbox":[780,420,8,8]}
+{"kind":"shape","id":"sh/a943y98z","slide":1,"bbox":[840,470,6,6]}
+{"kind":"shape","id":"sh/bad4repk","slide":1,"bbox":[1120,96,6,6]}
+{"kind":"shape","id":"sh/ve5kbad0","slide":1,"bbox":[1160,156,10,10]}
+{"kind":"textbox","id":"sh/udwji5cf","slide":1,"text":"封面页 / 主题页","textPreview":"封面页 / 主题页","textChars":9,"textLines":1,"bbox":[52,44,150,34]}
+{"kind":"textbox","id":"sh/hgn2dkv6","slide":1,"text":"AI读书会","textPreview":"AI读书会","textChars":5,"textLines":1,"bbox":[70,170,420,82]}
+{"kind":"textbox","id":"sh/gfelkful","slide":1,"text":"把一本书讲成自己的3分钟表达","textPreview":"把一本书讲成自己的3分钟表达","textChars":14,"textLines":1,"bbox":[72,260,540,54]}
+{"kind":"textbox","id":"sh/3ipkfadw","slide":1,"text":"从观点卡到个人知识库","textPreview":"从观点卡到个人知识库","textChars":10,"textLines":1,"bbox":[74,338,420,32]}
+{"kind":"shape","id":"sh/ihg3m5cr","slide":1,"bbox":[610,92,520,440]}
+{"kind":"textbox","id":"sh/pk72hkb2","slide":1,"text":"我的个人知识库","textPreview":"我的个人知识库","textChars":7,"textLines":1,"bbox":[644,124,220,32]}
+{"kind":"textbox","id":"sh/4jylofuh","slide":1,"text":"搜索我的观点与经验...","textPreview":"搜索我的观点与经验...","textChars":12,"textLines":1,"bbox":[644,168,300,26]}
+{"kind":"shape","id":"sh/r6pkjut8","slide":1,"bbox":[885,126,200,166]}
+{"kind":"textbox","id":"sh/qlg3qpcn","slide":1,"text":"观点资产卡","textPreview":"观点资产卡","textChars":5,"textLines":1,"bbox":[907,144,156,34]}
+{"kind":"textbox","id":"sh/m1knitwv","slide":1,"text":"核心观点","textPreview":"核心观点","textChars":4,"textLines":1,"bbox":[907,188,156,24]}
+{"kind":"shape","id":"sh/n2torydg","slide":1,"bbox":[907,216,156,1]}
+{"kind":"textbox","id":"sh/o325k3e1","slide":1,"text":"适用场景","textPreview":"适用场景","textChars":4,"textLines":1,"bbox":[907,230,156,24]}
+{"kind":"shape","id":"sh/94b6tovm","slide":1,"bbox":[907,258,156,1]}
+{"kind":"textbox","id":"sh/ed0ne9wz","slide":1,"text":"一句话记住","textPreview":"一句话记住","textChars":5,"textLines":1,"bbox":[907,272,156,24]}
+{"kind":"shape","id":"sh/ze94nex4","slide":1,"bbox":[907,300,156,1]}
+{"kind":"shape","id":"sh/0fi5gjep","slide":1,"bbox":[800,336,200,166]}
+{"kind":"textbox","id":"sh/10bmpofa","slide":1,"text":"经验连接卡","textPreview":"经验连接卡","textChars":5,"textLines":1,"bbox":[822,354,156,34]}
+{"kind":"textbox","id":"sh/y94nqdw3","slide":1,"text":"个人经历","textPreview":"个人经历","textChars":4,"textLines":1,"bbox":[822,398,156,24]}
+{"kind":"shape","id":"sh/jadojido","slide":1,"bbox":[822,426,156,1]}
+{"kind":"textbox","id":"sh/t4fqpcfq","slide":1,"text":"关键卡点","textPreview":"关键卡点","textChars":4,"textLines":1,"bbox":[822,440,156,24]}
+{"kind":"shape","id":"sh/836pg7y5","slide":1,"bbox":[822,468,156,1]}
+{"kind":"textbox","id":"sh/72x8n2xk","slide":1,"text":"新的理解","textPreview":"新的理解","textChars":4,"textLines":1,"bbox":[822,482,156,24]}
+{"kind":"shape","id":"sh/61o7exgz","slide":1,"bbox":[822,510,156,1]}
+{"kind":"shape","id":"sh/l0fqlsfu","slide":1,"bbox":[1010,330,180,166]}
+{"kind":"textbox","id":"sh/kz6pcny9","slide":1,"text":"表达资产卡","textPreview":"表达资产卡","textChars":5,"textLines":1,"bbox":[1032,348,136,34]}
+{"kind":"textbox","id":"sh/jyd8j2ho","slide":1,"text":"开场金句","textPreview":"开场金句","textChars":4,"textLines":1,"bbox":[1032,392,136,24]}
+{"kind":"shape","id":"sh/yx47axg3","slide":1,"bbox":[1032,420,136,1]}
+{"kind":"textbox","id":"sh/5wzqxwfy","slide":1,"text":"结构提纲","textPreview":"结构提纲","textChars":4,"textLines":1,"bbox":[1032,434,136,24]}
+{"kind":"shape","id":"sh/4vq9oryd","slide":1,"bbox":[1032,462,136,1]}
+{"kind":"textbox","id":"sh/czehory9","slide":1,"text":"行动收尾","textPreview":"行动收尾","textChars":4,"textLines":1,"bbox":[1032,476,136,24]}
+{"kind":"shape","id":"sh/x0nyhwfe","slide":1,"bbox":[1032,504,136,1]}
+{"kind":"shape","id":"sh/axwzmhg3","slide":1,"bbox":[730,210,150,150]}
+{"kind":"shape","id":"sh/by5gfmxo","slide":1,"bbox":[730,360,70,60]}
+{"kind":"shape","id":"sh/k3yhsby5","slide":1,"bbox":[730,360,280,50]}
+{"kind":"shape","id":"sh/l47ylwfq","slide":1,"bbox":[646,300,140,96]}
+{"kind":"textbox","id":"sh/y1wzq1gz","slide":1,"text":"个人知识库","textPreview":"个人知识库","textChars":5,"textLines":1,"bbox":[668,334,96,28]}
+{"kind":"shape","id":"sh/z2pgj6xk","slide":1,"bbox":[72,530,690,48]}
+{"kind":"textbox","id":"sh/87yhwby1","slide":1,"text":"阅读输入  ->  AI提炼  ->  知识连接  ->  上台表达","textPreview":"阅读输入  ->  AI提炼  ->  知识连接  ->  上台表达","textChars":34,"textLines":1,"bbox":[102,542,620,24]}
+{"kind":"textbox","id":"sh/987ypgfm","slide":1,"text":"AI读书会 · 3分钟表达实战","textPreview":"AI读书会 · 3分钟表达实战","textChars":15,"textLines":1,"bbox":[64,670,340,24]}
+{"kind":"textbox","id":"sh/j2tkfah4","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1160,666,56,30]}
+{"kind":"image","id":"im/id0rylsz","slide":1,"name":"","alt":"AI knowledge-base workshop visual background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/6cp718","slide":1,"text":""}
+{"kind":"slide","id":"sl/kr11g7","slide":2,"title":"目录页","textShapes":18}
+{"kind":"textbox","id":"sh/pgvmto3y","slide":2,"text":"目录页","textPreview":"目录页","textChars":3,"textLines":1,"bbox":[56,42,98,34]}
+{"kind":"textbox","id":"sh/2d4ny947","slide":2,"text":"今天不是读书汇报，而是完成一次表达训练","textPreview":"今天不是读书汇报，而是完成一次表达训练","textChars":19,"textLines":1,"bbox":[72,82,980,48]}
+{"kind":"textbox","id":"sh/ned4rels","slide":2,"text":"按这 4 个模块推进：从读懂一个观点，到站上台讲清楚。","textPreview":"按这 4 个模块推进：从读懂一个观点，到站上台讲清楚。","textChars":27,"textLines":1,"bbox":[74,138,780,30]}
+{"kind":"shape","id":"sh/0bm5wzmh","slide":2,"bbox":[92,236,238,250]}
+{"kind":"textbox","id":"sh/1cvmp43m","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[116,260,64,38]}
+{"kind":"textbox","id":"sh/ep4nu94b","slide":2,"text":"读懂观点","textPreview":"读懂观点","textChars":4,"textLines":1,"bbox":[116,318,180,36]}
+{"kind":"textbox","id":"sh/fqd4nulw","slide":2,"text":"用 AI 提炼书中可讲的核心观点","textPreview":"用 AI 提炼书中可讲的核心观点","textChars":16,"textLines":1,"bbox":[116,374,184,64]}
+{"kind":"shape","id":"sh/sn2lszm5","slide":2,"bbox":[330,360,48,1]}
+{"kind":"shape","id":"sh/dobml43q","slide":2,"bbox":[378,236,238,250]}
+{"kind":"textbox","id":"sh/po7id0fm","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[402,260,64,38]}
+{"kind":"textbox","id":"sh/onyhkveh","slide":2,"text":"连接经验","textPreview":"连接经验","textChars":4,"textLines":1,"bbox":[402,318,180,36]}
+{"kind":"textbox","id":"sh/nmp0bqxw","slide":2,"text":"把观点放进自己的真实场景里","textPreview":"把观点放进自己的真实场景里","textChars":13,"textLines":1,"bbox":[402,374,184,64]}
+{"kind":"shape","id":"sh/2lgzilwb","slide":2,"bbox":[616,360,48,1]}
+{"kind":"shape","id":"sh/1k7i9gfq","slide":2,"bbox":[664,236,238,250]}
+{"kind":"textbox","id":"sh/0jyhgbe5","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[688,260,64,38]}
+{"kind":"textbox","id":"sh/fi5076xk","slide":2,"text":"结构表达","textPreview":"结构表达","textChars":4,"textLines":1,"bbox":[688,318,180,36]}
+{"kind":"textbox","id":"sh/ehwze1wz","slide":2,"text":"用四步法把散的想法讲清楚","textPreview":"用四步法把散的想法讲清楚","textChars":12,"textLines":1,"bbox":[688,374,184,64]}
+{"kind":"shape","id":"sh/dwni5gfu","slide":2,"bbox":[902,360,48,1]}
+{"kind":"shape","id":"sh/svehcbe9","slide":2,"bbox":[950,236,238,250]}
+{"kind":"textbox","id":"sh/4b298vq1","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[974,260,64,38]}
+{"kind":"textbox","id":"sh/5cbqh0rm","slide":2,"text":"上台呈现","textPreview":"上台呈现","textChars":4,"textLines":1,"bbox":[974,318,180,36]}
+{"kind":"textbox","id":"sh/i90r658b","slide":2,"text":"完成一段 3 分钟表达实战","textPreview":"完成一段 3 分钟表达实战","textChars":13,"textLines":1,"bbox":[974,374,184,64]}
+{"kind":"shape","id":"sh/3at8fa9g","slide":2,"bbox":[220,548,840,58]}
+{"kind":"textbox","id":"sh/w7i94vq5","slide":2,"text":"现场成果：一段可讲出来的 3 分钟表达 + 一张知识资产卡","textPreview":"现场成果：一段可讲出来的 3 分钟表达 + 一张知识资产卡","textChars":29,"textLines":1,"bbox":[252,562,780,30]}
+{"kind":"textbox","id":"sh/h8rqd0rq","slide":2,"text":"AI读书会 · 3分钟表达实战","textPreview":"AI读书会 · 3分钟表达实战","textChars":15,"textLines":1,"bbox":[64,670,340,24]}
+{"kind":"textbox","id":"sh/ul0r2lsz","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,666,56,30]}
+{"kind":"notes","id":"nt/kr11g7","slide":2,"text":""}
+{"kind":"slide","id":"sl/mqkicl","slide":3,"title":"章节过渡页","textShapes":12}
+{"kind":"shape","id":"sh/m98zy5gz","slide":3,"bbox":[0,0,610,720]}
+{"kind":"shape","id":"sh/na1grax4","slide":3,"bbox":[930,120,12,12]}
+{"kind":"shape","id":"sh/07qhwvyt","slide":3,"bbox":[980,168,8,8]}
+{"kind":"shape","id":"sh/l8zyp0fe","slide":3,"bbox":[900,210,6,6]}
+{"kind":"shape","id":"sh/y58zu5gn","slide":3,"bbox":[1028,244,10,10]}
+{"kind":"shape","id":"sh/z6hgnqx8","slide":3,"bbox":[780,420,8,8]}
+{"kind":"shape","id":"sh/c3qhsvyh","slide":3,"bbox":[840,470,6,6]}
+{"kind":"shape","id":"sh/d4zyl0f2","slide":3,"bbox":[1120,96,6,6]}
+{"kind":"shape","id":"sh/lc7ih87e","slide":3,"bbox":[1160,156,10,10]}
+{"kind":"textbox","id":"sh/0byho3qt","slide":3,"text":"章节过渡页","textPreview":"章节过渡页","textChars":5,"textLines":1,"bbox":[56,44,126,34]}
+{"kind":"textbox","id":"sh/zap0fyp8","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[88,142,120,76]}
+{"kind":"shape","id":"sh/y9gzmt8n","slide":3,"bbox":[92,230,216,1]}
+{"kind":"textbox","id":"sh/d8nido72","slide":3,"text":"把一个观点讲清楚","textPreview":"把一个观点讲清楚","textChars":8,"textLines":1,"bbox":[88,266,720,62]}
+{"kind":"textbox","id":"sh/c7ehkjqx","slide":3,"text":"先不追求读完整本书，先完成一次能被别人听懂的表达。","textPreview":"先不追求读完整本书，先完成一次能被别人听懂的表达。","textChars":25,"textLines":1,"bbox":[92,346,680,34]}
+{"kind":"shape","id":"sh/r650rypc","slide":3,"bbox":[790,142,330,310]}
+{"kind":"shape","id":"sh/q5wzit8r","slide":3,"bbox":[840,178,230,220]}
+{"kind":"textbox","id":"sh/p4nipo76","slide":3,"text":"观点资产卡","textPreview":"观点资产卡","textChars":5,"textLines":1,"bbox":[862,196,186,34]}
+{"kind":"textbox","id":"sh/43ehgjql","slide":3,"text":"这个观点是什么？","textPreview":"这个观点是什么？","textChars":8,"textLines":1,"bbox":[862,240,186,24]}
+{"kind":"shape","id":"sh/gnihwjyh","slide":3,"bbox":[862,268,186,1]}
+{"kind":"textbox","id":"sh/hori5oz2","slide":3,"text":"它解决什么问题？","textPreview":"它解决什么问题？","textChars":8,"textLines":1,"bbox":[862,282,186,24]}
+{"kind":"shape","id":"sh/ulgzu9gb","slide":3,"bbox":[862,310,186,1]}
+{"kind":"textbox","id":"sh/vmp03ehw","slide":3,"text":"为什么值得听？","textPreview":"为什么值得听？","textChars":7,"textLines":1,"bbox":[862,324,186,24]}
+{"kind":"shape","id":"sh/8jyhsjyl","slide":3,"bbox":[862,352,186,1]}
+{"kind":"textbox","id":"sh/tk7i1ozq","slide":3,"text":"本章输出","textPreview":"本章输出","textChars":4,"textLines":1,"bbox":[842,430,100,26]}
+{"kind":"textbox","id":"sh/6hgzq9gf","slide":3,"text":"一段 3 分钟书中观点表达","textPreview":"一段 3 分钟书中观点表达","textChars":13,"textLines":1,"bbox":[944,430,250,26]}
+{"kind":"textbox","id":"sh/7ip0zeh0","slide":3,"text":"AI读书会 · 3分钟表达实战","textPreview":"AI读书会 · 3分钟表达实战","textChars":15,"textLines":1,"bbox":[64,670,340,24]}
+{"kind":"textbox","id":"sh/sf2143yp","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,666,56,30]}
+{"kind":"image","id":"im/c32tgn6x","slide":3,"name":"","alt":"AI knowledge-base workshop visual background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/mqkicl","slide":3,"text":""}
+{"kind":"slide","id":"sl/ofbdep","slide":4,"title":"内容页 / 可复用","textShapes":20}
+{"kind":"textbox","id":"sh/k7uxw3m1","slide":4,"text":"内容页 / 可复用","textPreview":"内容页 / 可复用","textChars":9,"textLines":1,"bbox":[56,42,140,34]}
+{"kind":"shape","id":"sh/j61w3y5g","slide":4,"bbox":[56,110,170,460]}
+{"kind":"shape","id":"sh/y5sfut4v","slide":4,"bbox":[76,144,130,48]}
+{"kind":"textbox","id":"sh/x4je1onq","slide":4,"text":"阅读输入","textPreview":"阅读输入","textChars":4,"textLines":1,"bbox":[92,156,100,24]}
+{"kind":"shape","id":"sh/w3axsj65","slide":4,"bbox":[76,226,130,48]}
+{"kind":"textbox","id":"sh/b21wze5k","slide":4,"text":"AI提炼","textPreview":"AI提炼","textChars":4,"textLines":1,"bbox":[92,238,100,24]}
+{"kind":"shape","id":"sh/a1sfqtoz","slide":4,"bbox":[76,308,130,48]}
+{"kind":"textbox","id":"sh/9gjexone","slide":4,"text":"知识连接","textPreview":"知识连接","textChars":4,"textLines":1,"bbox":[92,320,100,24]}
+{"kind":"shape","id":"sh/ofqxoj6t","slide":4,"bbox":[76,390,130,48]}
+{"kind":"textbox","id":"sh/y1sbi5sn","slide":4,"text":"上台表达","textPreview":"上台表达","textChars":4,"textLines":1,"bbox":[92,402,100,24]}
+{"kind":"textbox","id":"sh/zm1cba98","slide":4,"text":"用 AI 提炼观点，再转成自己的表达","textPreview":"用 AI 提炼观点，再转成自己的表达","textChars":18,"textLines":1,"bbox":[270,72,760,46]}
+{"kind":"textbox","id":"sh/knatkvat","slide":4,"text":"把 AI 当作阅读和表达助手，而不是替你完成演讲的人。","textPreview":"把 AI 当作阅读和表达助手，而不是替你完成演讲的人。","textChars":27,"textLines":1,"bbox":[272,124,680,28]}
+{"kind":"shape","id":"sh/lo3ud0re","slide":4,"bbox":[276,218,185,170]}
+{"kind":"textbox","id":"sh/axsbelsr","slide":4,"text":"阅读输入","textPreview":"阅读输入","textChars":4,"textLines":1,"bbox":[300,240,137,34]}
+{"kind":"textbox","id":"sh/by1c7qtc","slide":4,"text":"书中段落 / 笔记 / 你感兴趣的问题","textPreview":"书中段落 / 笔记 / 你感兴趣的问题","textChars":19,"textLines":1,"bbox":[300,286,137,78]}
+{"kind":"shape","id":"sh/czatgvah","slide":4,"bbox":[461,303,39,1]}
+{"kind":"shape","id":"sh/x0ju90b2","slide":4,"bbox":[500,218,185,170]}
+{"kind":"textbox","id":"sh/2t8balsf","slide":4,"text":"AI提炼","textPreview":"AI提炼","textChars":4,"textLines":1,"bbox":[524,240,137,34]}
+{"kind":"textbox","id":"sh/nuhs3qt0","slide":4,"text":"提炼观点、关键词、适用场景","textPreview":"提炼观点、关键词、适用场景","textChars":13,"textLines":1,"bbox":[524,286,137,78]}
+{"kind":"shape","id":"sh/ryx8bm9s","slide":4,"bbox":[685,303,39,1]}
+{"kind":"shape","id":"sh/qx4rih87","slide":4,"bbox":[724,218,185,170]}
+{"kind":"textbox","id":"sh/d0fqdcry","slide":4,"text":"结构化","textPreview":"结构化","textChars":3,"textLines":1,"bbox":[748,240,137,34]}
+{"kind":"textbox","id":"sh/sz69krqd","slide":4,"text":"场景 -> 卡点 -> 问题 -> 答案","textPreview":"场景 -> 卡点 -> 问题 -> 答案","textChars":20,"textLines":1,"bbox":[748,286,137,78]}
+{"kind":"shape","id":"sh/f2x8fm94","slide":4,"bbox":[909,303,39,1]}
+{"kind":"shape","id":"sh/e1ormh8j","slide":4,"bbox":[948,218,185,170]}
+{"kind":"textbox","id":"sh/14fqhw7u","slide":4,"text":"表达输出","textPreview":"表达输出","textChars":4,"textLines":1,"bbox":[972,240,137,34]}
+{"kind":"textbox","id":"sh/0369orq9","slide":4,"text":"3分钟讲稿、开头、结尾、行动句","textPreview":"3分钟讲稿、开头、结尾、行动句","textChars":15,"textLines":1,"bbox":[972,286,137,78]}
+{"kind":"shape","id":"sh/v6d8329k","slide":4,"bbox":[282,438,800,92]}
+{"kind":"textbox","id":"sh/u5k7ax8z","slide":4,"text":"内容占位标题","textPreview":"内容占位标题","textChars":6,"textLines":1,"bbox":[312,456,260,28]}
+{"kind":"textbox","id":"sh/kbi5436x","slide":4,"text":"这里放本页的核心讲解内容。建议每页只放一个关键动作：例如先展示提示词，再让学员现场改一次。","textPreview":"这里放本页的核心讲解内容。建议每页只放一个关键动作：例如先展示提示词，再让学员现场改一次。","textChars":45,"textLines":1,"bbox":[312,492,720,28]}
+{"kind":"shape","id":"sh/lcr6do7i","slide":4,"bbox":[282,560,800,46]}
+{"kind":"textbox","id":"sh/y90n2tor","slide":4,"text":"课堂提示：AI 辅助思考，但表达必须属于你。","textPreview":"课堂提示：AI 辅助思考，但表达必须属于你。","textChars":22,"textLines":1,"bbox":[312,572,720,22]}
+{"kind":"textbox","id":"sh/za9obypc","slide":4,"text":"AI读书会 · 3分钟表达实战","textPreview":"AI读书会 · 3分钟表达实战","textChars":15,"textLines":1,"bbox":[64,670,340,24]}
+{"kind":"textbox","id":"sh/c7i50j61","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,666,56,30]}
+{"kind":"notes","id":"nt/ofbdep","slide":4,"text":""}

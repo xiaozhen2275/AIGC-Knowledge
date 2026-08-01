@@ -1,0 +1,48 @@
+{"kind":"deck","id":"pr/az45tx","name":"Deck"}
+{"kind":"layout","layoutId":"802e5ab0-40d8-4a3e-914e-06c4073c404f","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"9cfc92e4-cafa-49b8-b4c6-732168f4cf77","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/odg61y","slide":1,"title":"Slide 1","textShapes":0}
+{"kind":"image","id":"im/ry1gvmh4","slide":1,"name":"","alt":"系列总览 01","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/odg61y","slide":1,"text":""}
+{"kind":"slide","id":"sl/nxz75r","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/h0b61szq","slide":2,"name":"","alt":"系列总览 02","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/nxz75r","slide":2,"text":""}
+{"kind":"slide","id":"sl/pc7u87","slide":3,"title":"Slide 3","textShapes":0}
+{"kind":"image","id":"im/vm1cfyls","slide":3,"name":"","alt":"系列总览 03","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/pc7u87","slide":3,"text":""}
+{"kind":"slide","id":"sl/hngbm5","slide":4,"title":"Slide 4","textShapes":0}
+{"kind":"image","id":"im/4rmxgn61","slide":4,"name":"","alt":"系列总览 04","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hngbm5","slide":4,"text":""}
+{"kind":"slide","id":"sl/pnbj57","slide":5,"title":"Slide 5","textShapes":0}
+{"kind":"image","id":"im/lw7axgf6","slide":5,"name":"","alt":"系列总览 05","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/pnbj57","slide":5,"text":""}
+{"kind":"slide","id":"sl/iw0ezz","slide":6,"title":"Slide 6","textShapes":0}
+{"kind":"image","id":"im/yhcvup8v","slide":6,"name":"","alt":"第1期 01","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/iw0ezz","slide":6,"text":""}
+{"kind":"slide","id":"sl/adxt44","slide":7,"title":"Slide 7","textShapes":0}
+{"kind":"image","id":"im/gnihczex","slide":7,"name":"","alt":"第1期 02","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/adxt44","slide":7,"text":""}
+{"kind":"slide","id":"sl/n4rk1r","slide":8,"title":"Slide 8","textShapes":0}
+{"kind":"image","id":"im/lkryt8ry","slide":8,"name":"","alt":"第1期 03","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/n4rk1r","slide":8,"text":""}
+{"kind":"slide","id":"sl/394vzd","slide":9,"title":"Slide 9","textShapes":0}
+{"kind":"image","id":"im/jqx4veps","slide":9,"name":"","alt":"第1期 04","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/394vzd","slide":9,"text":""}
+{"kind":"slide","id":"sl/tdyqoj","slide":10,"title":"Slide 10","textShapes":0}
+{"kind":"image","id":"im/m1sn298v","slide":10,"name":"","alt":"第1期 05","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/tdyqoj","slide":10,"text":""}
+{"kind":"slide","id":"sl/4qvfi9","slide":11,"title":"Slide 11","textShapes":0}
+{"kind":"image","id":"im/cnitsra9","slide":11,"name":"","alt":"第1期 06","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/4qvfi9","slide":11,"text":""}
+{"kind":"slide","id":"sl/w3p6k9","slide":12,"title":"Slide 12","textShapes":0}
+{"kind":"image","id":"im/jq9cfad4","slide":12,"name":"","alt":"第1期 07","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/w3p6k9","slide":12,"text":""}
+{"kind":"slide","id":"sl/aljgak","slide":13,"title":"Slide 13","textShapes":0}
+{"kind":"image","id":"im/xkfehozq","slide":13,"name":"","alt":"第1期 08","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/aljgak","slide":13,"text":""}
+{"kind":"slide","id":"sl/lk1f4c","slide":14,"title":"Slide 14","textShapes":0}
+{"kind":"image","id":"im/id4ri5gr","slide":14,"name":"","alt":"第1期 09","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/lk1f4c","slide":14,"text":""}
+{"kind":"slide","id":"sl/hhbhwg","slide":15,"title":"Slide 15","textShapes":0}
+{"kind":"image","id":"im/jit07mpk","slide":15,"name":"","alt":"第1期 10","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hhbhwg","slide":15,"text":""}
